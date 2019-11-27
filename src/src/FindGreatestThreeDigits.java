@@ -1,7 +1,9 @@
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
-/**Aimed to find the largest three digits in the list*/
+/**Aimed to find the largest three digits in the list
+ * input all integer string
+ * out: maximum number with three digits*/
 
 public class FindGreatestThreeDigits {
     public static void main(String[] args) {

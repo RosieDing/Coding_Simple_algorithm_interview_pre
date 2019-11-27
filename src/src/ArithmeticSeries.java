@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+/** in this class we print the numbers in other types
+ * */
 public class ArithmeticSeries {
 
     public static void main(String[] args) {

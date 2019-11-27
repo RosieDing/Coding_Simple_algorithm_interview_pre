@@ -1,7 +1,9 @@
 import java.util.ArrayList;
 import java.util.Scanner;
+/**reverse the list of string*/
 
 public class RevertAndCheckCoin {
+
 
         public static void main(String[] args) {
             Scanner s = new Scanner(System.in);

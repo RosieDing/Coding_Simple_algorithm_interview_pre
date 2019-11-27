@@ -27,7 +27,7 @@ public class CountTicket {
             listOfSum.add(con);
         }
 
-        Set<Integer> c =collectionT.keySet();
+        Set<Integer> c =collectionT.keySet();//return the set of all the keys
         for(int m: c){
             if(numOfpeo%m !=0){
                 int remain = numOfpeo % m;

@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+/**in this program we change the number into prime factors*/
 public class FactorToPrimes {
 
         public static void main(String args[]) {
